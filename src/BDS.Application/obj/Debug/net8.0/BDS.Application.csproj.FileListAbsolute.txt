@@ -1,0 +1,16 @@
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Application/bin/Debug/net8.0/BDS.Application.deps.json
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Application/bin/Debug/net8.0/BDS.Application.dll
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Application/bin/Debug/net8.0/BDS.Application.pdb
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Application/obj/Debug/net8.0/BDS.Application.csproj.AssemblyReference.cache
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Application/obj/Debug/net8.0/BDS.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Application/obj/Debug/net8.0/BDS.Application.AssemblyInfoInputs.cache
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Application/obj/Debug/net8.0/BDS.Application.AssemblyInfo.cs
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Application/obj/Debug/net8.0/BDS.Application.csproj.CoreCompileInputs.cache
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Application/obj/Debug/net8.0/BDS.Application.sourcelink.json
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Application/obj/Debug/net8.0/BDS.Application.dll
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Application/obj/Debug/net8.0/refint/BDS.Application.dll
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Application/obj/Debug/net8.0/BDS.Application.pdb
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Application/obj/Debug/net8.0/ref/BDS.Application.dll
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Application/bin/Debug/net8.0/BDS.Communication.dll
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Application/bin/Debug/net8.0/BDS.Communication.pdb
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Application/obj/Debug/net8.0/BDS.Application.csproj.CopyComplete

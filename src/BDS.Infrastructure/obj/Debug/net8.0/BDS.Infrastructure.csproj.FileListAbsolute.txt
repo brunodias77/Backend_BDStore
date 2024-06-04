@@ -1,0 +1,13 @@
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Infrastructure/bin/Debug/net8.0/BDS.Infrastructure.deps.json
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Infrastructure/bin/Debug/net8.0/BDS.Infrastructure.dll
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Infrastructure/bin/Debug/net8.0/BDS.Infrastructure.pdb
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Infrastructure/obj/Debug/net8.0/BDS.Infrastructure.csproj.AssemblyReference.cache
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Infrastructure/obj/Debug/net8.0/BDS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Infrastructure/obj/Debug/net8.0/BDS.Infrastructure.AssemblyInfoInputs.cache
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Infrastructure/obj/Debug/net8.0/BDS.Infrastructure.AssemblyInfo.cs
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Infrastructure/obj/Debug/net8.0/BDS.Infrastructure.csproj.CoreCompileInputs.cache
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Infrastructure/obj/Debug/net8.0/BDS.Infrastructure.sourcelink.json
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Infrastructure/obj/Debug/net8.0/BDS.Infrastructure.dll
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Infrastructure/obj/Debug/net8.0/refint/BDS.Infrastructure.dll
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Infrastructure/obj/Debug/net8.0/BDS.Infrastructure.pdb
+/home/brunodias/Documentos/Programacao/Codigos/C#/e-commerce/backend_bdstore/src/BDS.Infrastructure/obj/Debug/net8.0/ref/BDS.Infrastructure.dll
